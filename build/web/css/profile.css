@@ -1,0 +1,427 @@
+html
+{
+    margin: 0px;
+    padding: 0px;
+}
+body
+{
+    margin: 0px;
+    padding: 0px;
+}
+.main_left_division
+{
+    width: 300px;
+    float: left;
+}
+.main_center_division
+{
+    width: 700px;
+    float: left;
+}
+.main_right_division
+{
+    width: 300px;
+    float: left;
+}
+.upload_profile_button
+{
+    height: 30px;
+    width: 120px;
+    float: left;
+    margin-left: 40px;
+    margin-top: 20px;
+    border: 1px solid black;
+    background-color : activecaption;
+    border-radius: 5px;
+}
+.button_design
+{
+    height: 30px;
+    width: 120px;
+    border: 1px solid black;
+    background-color : activecaption;
+    border-radius: 5px;
+}
+.button_design:hover
+{
+    background-color: yellow;
+}
+.textfield_design
+{
+    height: 25px;
+    width: 200px;
+    border: 1px solid black;
+    background-color: antiquewhite;
+    border-radius: 10px;
+}
+.textfield_design:focus
+{
+    background-color: lightblue;
+    border: 1px solid blue;
+}
+.header_profile
+{
+    height: 60px;
+    width: 100%;
+    background-color: blue;
+}
+.header_search
+{
+    float: right;
+    margin-top: 10px;
+    margin-right: 100px;
+}
+.header_logo1
+{
+    float: left;
+    margin-left: 50px;
+    margin-top: 10px;
+    font-size: 30px;
+    color:white;
+}
+.profile_pic
+{
+    height: 230px;
+    width: 250px;
+    float: left;
+    margin-left: 30px;
+    margin-top: 30px;
+    border:2px solid activecaption;
+    box-shadow: 0 1px 5px #0061aa, inset 0 10px 20px #b6f9ff;
+   -o-box-shadow: 0 1px 5px #0061aa, inset 0 10px 20px #b6f9ff;
+   -webkit-box-shadow: 0 1px 5px #0061aa, inset 0 10px 20px #b6f9ff;
+   -moz-box-shadow: 0 1px 5px #0061aa, inset 0 10px 20px #b6f9ff;
+    
+}
+ul
+{
+    font-family: Arial,Verdana;
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+ul li
+{
+    display: block;
+    position: relative;
+    float: left;
+}
+li ul 
+{
+    display: none;
+}
+ul li a
+{
+    display: block;
+    text-decoration: none;
+    color: #000000;
+    border-top: 1px solid #D6D6D6;
+    border-bottom: 1px solid #D6D6D6;
+    border-right: 1px solid #D6D6D6;
+    border-left: 1px solid #D6D6D6;
+    padding: 5px 15px 5px 15px;
+    background: #EBEBEB;
+    margin-left: 1px;
+    white-space: nowrap;
+    
+  }
+  ul li a:hover
+  {
+      background: #3b3b3b;
+      color: #FFFFFF;
+  }
+  li:hover ul
+  {
+    display: block;
+    float: left;
+    position: absolute;
+  }
+  li:hover li
+  {
+      float: none;
+      font-size: 11px;
+  }
+  li :hover a{
+      background: #CECECE;
+      color: #000000;
+  }
+  li:hover li  a:hover
+  {
+      background: #3b3b3b;
+  }
+.menu_bar_placement
+{
+    float: left;
+    margin-top: 10px;
+    margin-left: 100px;
+}
+.user_details
+{
+    height: auto;
+    width: 500px;
+    float: left;
+    margin-top: 30px;
+    margin-left: 100px;
+}
+.my_info_div
+{
+    height: auto;
+    width: 500px;
+    float: left;
+    margin-left: 10px;
+    box-shadow: 0px 0px 10px 1px rgba(133, 128, 128, 0.75);
+    -moz-box-shadow: 0px 0px 10px 1px rgba(133, 128, 128, 0.75);
+    -webkit-box-shadow: 0px 0px 10px 1px rgba(133, 128, 128, 0.75);
+    margin-bottom: 100px;
+}
+.my_info_div_heading
+{
+    font-size: 22px;
+    color: blue;
+    font-weight: bold;
+    float: left;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.adds_div
+{
+    height: 450px;
+    width:230px;
+    background-color: yellow;
+    float: left;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+.upload_CV
+{
+    height: 200px;
+    width: 250px;
+    float: left;
+    margin-left: 30px;
+    margin-top: 10px;
+    background-color: greenyellow;
+}
+.field
+{
+    height: 25px;
+    width: 300px;
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.upload_profile_pic
+{
+    height: 45px;
+    width: 300px;
+    float: left;
+    margin-left: 50px;
+    margin-top: -250px;
+    background-color: greenyellow;
+}
+.update_resume
+{
+    height: 150px;
+    width: 400px;
+    float: left;
+    margin-left: 100px;
+    margin-top: 10px;
+   
+}
+.update_resume_textarea
+{
+    height: 100px;
+    width: 400px;
+    border: 1px solid #D6D6D6;
+    padding: 10px;
+    box-shadow: 0 1px 5px #0061aa, inset 0 10px 20px #b6f9ff;
+   -o-box-shadow: 0 1px 5px #0061aa, inset 0 10px 20px #b6f9ff;
+   -webkit-box-shadow: 0 1px 5px #0061aa, inset 0 10px 20px #b6f9ff;
+   -moz-box-shadow: 0 1px 5px #0061aa, inset 0 10px 20px #b6f9ff;
+}
+.status_update_division
+{
+    width: 500px;
+    float: left;
+    margin-top: 50px;
+    margin-left: 70px;
+}
+.status_update_name_division
+{
+    height: 30px;
+    width: 500px;
+    float: left;
+}
+.status_update_status_division
+{
+    height: 100px;
+    width: 500px;
+    float: left;
+    box-shadow: 0 1px 5px #0061aa, inset 0 10px 20px #b6f9ff;
+   -o-box-shadow: 0 1px 5px #0061aa, inset 0 10px 20px #b6f9ff;
+   -webkit-box-shadow: 0 1px 5px #0061aa, inset 0 10px 20px #b6f9ff;
+   -moz-box-shadow: 0 1px 5px #0061aa, inset 0 10px 20px #b6f9ff;
+   border: 1px solid #D6D6D6;
+}
+.status_update_button_division
+{
+    height: 50px;
+    width: 500px;
+    float: left;
+}
+.logout_design
+{
+    font-size: 18px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+.logout_design:hover
+{
+    text-decoration: underline;
+    color: red;
+}
+.download_resume
+{
+    height: 100px;
+    width: 400px;
+    float: left;
+    margin-left: 100px;
+   
+}
+.download_resume_textarea
+{
+    height: 100px;
+    width: 400px;
+    border: 1px solid black;
+}
+.field2
+{
+    height: 25px;
+    width: 300px;
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.division
+{
+    height: 200px;
+    width: 105px;
+    background-color: red;
+    float: left;
+    margin-top: -350px;
+    margin-left: 300px;
+}
+.send_resume
+{
+    height: 300px;
+    width: 400px;
+    float: left;
+    margin-left: 100px;
+    margin-top: 10px;
+   
+}
+.send_resume_textarea
+{
+    height: 100px;
+    width: 400px;
+    margin-top: 10px;
+    margin-left: 5px;
+    border: 1px solid #D6D6D6;
+    padding: 10px;
+    box-shadow: 0 1px 5px #0061aa, inset 0 10px 20px #b6f9ff;
+   -o-box-shadow: 0 1px 5px #0061aa, inset 0 10px 20px #b6f9ff;
+   -webkit-box-shadow: 0 1px 5px #0061aa, inset 0 10px 20px #b6f9ff;
+   -moz-box-shadow: 0 1px 5px #0061aa, inset 0 10px 20px #b6f9ff;
+}
+.status_send_division
+{
+    width: 500px;
+    float: left;
+    margin-top: 200px;
+    margin-left: 10px;
+}
+.main_status_send_div
+{
+    height: 180px;
+    width: 500px;
+    float: left;
+    
+}
+.status_send_name_division
+{
+    height: 30px;
+    width: 500px;
+    float: left;
+}
+.status_send_status_division
+{
+    height: 100px;
+    width: 400px;
+    float: left;
+    box-shadow: 0 1px 5px #0061aa, inset 0 10px 20px #b6f9ff;
+   -o-box-shadow: 0 1px 5px #0061aa, inset 0 10px 20px #b6f9ff;
+   -webkit-box-shadow: 0 1px 5px #0061aa, inset 0 10px 20px #b6f9ff;
+   -moz-box-shadow: 0 1px 5px #0061aa, inset 0 10px 20px #b6f9ff;
+   border: 1px solid #D6D6D6;
+}
+.status_send_button_division
+{
+    height: 50px;
+    width: 500px;
+    float: left;
+}
+
+.company_notifications
+{
+    text-decoration: none;
+    color: black;
+    font-size: 22px;
+    float: left;
+    margin-left: 50px;
+    margin-top: 50px;
+    font-weight: bold;
+    padding: 3px 20px;
+    border: 1px solid #D6D6D6;
+    border-radius: 3px;
+}
+.company_notifications:hover
+{
+    color: red;
+    background-color: #EBEBEB;
+    border-radius: 8px;
+}
+.resume_division
+{
+    background-color: #EBEBEB;
+    float: left;
+    margin-left: 100px;
+    margin-top: 50px;
+    padding: 20px 50px;
+}
+.sendmessage_textarea
+{
+    height: 100px;
+    width: 400px;
+    border: 1px solid #D6D6D6;
+}
+
+tr:nth-child(odd){background-color: #ecf4d4}

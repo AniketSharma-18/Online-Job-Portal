@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v9.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/appctxapi.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/aqapi_g.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/aqapi.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/aqapi12_g.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/aqapi12.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/aqapi13_g.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/aqapi13.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/aqxml_g.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/aqxml.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/asm.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/asm-attrs.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/c3p0-0.9.1.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/CartridgeServices.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/CDC.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/cglib-2.1.3.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/commons-collections-2.1.1.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/commons-fileupload-1.0-5.5.23.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/commons-fileupload-1.2.1.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/cos.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/cos (1).jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/ehcache-1.2.3.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/ejb3-persistence.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/ExprFilter.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/extusrupgrade.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/gson-2.2.2.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/hibernate3.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/hibernate-annotations.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/hibernate-commons-annotations.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/hibernate-validator.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/java-json.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/jdbc2_0-stdext.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/jdm.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/jmscommon.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/jta.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/log4j-1.2.11.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/mysql-connector-java-5.1.6-bin.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/ODCI.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/ojdbc14_g.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/ojdm_api.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/orai18n.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/qsma.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/servlet.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/sqljtype.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/usermigrate-1_0.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/xdb_g.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/xdb.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/xerces-2.6.2.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

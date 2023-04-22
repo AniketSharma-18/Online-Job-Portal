@@ -1,0 +1,122 @@
+html
+{
+    margin: 0px;
+    padding: 0px;
+}
+body
+{
+    margin: 0px;
+    padding: 0px;
+}
+.left_main_division
+{
+    width: 300px;
+    height: 540px;
+    float: left;
+    
+}
+.center_main_division
+{
+    width: 649px;
+    height: auto;
+    float: left;
+    box-shadow: 0 1px 5px #0061aa, inset 0 10px 20px #b6f9ff;
+   -o-box-shadow: 0 1px 5px #0061aa, inset 0 10px 20px #b6f9ff;
+   -webkit-box-shadow: 0 1px 5px #0061aa, inset 0 10px 20px #b6f9ff;
+   -moz-box-shadow: 0 1px 5px #0061aa, inset 0 10px 20px #b6f9ff;
+}
+.right_main_division
+{
+    width: 300px;
+    height: auto;
+    float: left;
+    margin-left: 10px;
+}
+.body_allign
+{
+    float: right;
+    margin-right: 120px;
+    margin-top: 50px;
+    font-size: 20px; 
+}
+.header1
+{
+   height: 120px;
+    width: 100%;
+    background-color: background;
+}
+.header_logo
+{
+    float: left;
+    margin-left: 20px;
+    margin-top: 40px;
+    font-size: 35px;
+    color: white;
+}
+.header_login
+{
+    float: right;
+    margin-top: 25px;
+    margin-right: 100px;
+}
+.button_design
+{
+    height: 30px;
+    width: 150px;
+    border: 1px solid black;
+    background-color : appworkspace;
+    border-radius: 5px;
+    margin-top: 5px;
+    box-shadow: 0 1px 5px #0061aa, inset 0 10px 20px #b6f9ff;
+   -o-box-shadow: 0 1px 5px #0061aa, inset 0 10px 20px #b6f9ff;
+   -webkit-box-shadow: 0 1px 5px #0061aa, inset 0 10px 20px #b6f9ff;
+   -moz-box-shadow: 0 1px 5px #0061aa, inset 0 10px 20px #b6f9ff;
+}
+.button_design:hover
+{
+    background-color: graytext;
+}
+.textfield_design
+{
+    height: 25px;
+    width: 200px;
+    border: 1px solid black;
+    background-color: lightyellow;
+    border-radius: 2px;
+}
+.textfield_design:focus
+{
+    background-color: white;
+    border: 1px solid blue;
+}
+.footer_division
+{
+    height: 40px;
+    width: 100%;
+    background-color: black;
+    float: left;
+}
+.footer_link1
+{
+    text-decoration: none;
+    float: left;
+    margin-left: 300px;
+    color: white;
+    margin-top: 10px;
+}
+.footer_link1:hover
+{
+    color: yellow;
+}
+.footer_link2
+{
+    text-decoration: none;
+    float: right;
+    margin-right: 300px;
+    color: white;
+    margin-top: 10px;
+}
+.footer_link2:hover
+{
+    color: yellow;
+}
